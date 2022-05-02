@@ -6,6 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="2f8dee2a-4d13-4e0d-a9a5-f82e4d8f2663" name="Default Changelist" comment="commiting HandlingCookies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DateValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DateValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/ReverseEachword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/ReverseEachword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/SingleTon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/SingleTon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/SmallnumberinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/SmallnumberinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/fibonacciseries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/fibonacciseries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/DateValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/DateValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/ReverseEachword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/ReverseEachword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/SmallnumberinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/SmallnumberinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/fibonacciseries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ImpJAVAprogrammes/fibonacciseries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +57,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,13 +69,13 @@
       <recent name="ImpJAVAprogrammes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BrowserWindowHandles">
-    <configuration name="AutoCompleteGooglePlaceDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.AutoCompleteGooglePlaceDropdown" />
+  <component name="RunManager" selected="Application.StaticBlocks">
+    <configuration name="SmallestNumberinArrayCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.SmallestNumberinArrayCollections" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutoSuggestionDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.AutoSuggestionDropdown" />
+    <configuration name="SmallnumberinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.SmallnumberinArray" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserWindowHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.BrowserWindowHandles" />
+    <configuration name="StaticBlock1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.StaticBlock1" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBoxSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.CheckBoxSelection" />
+    <configuration name="StaticBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.StaticBlocks" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckedSortedDropdowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.CheckedSortedDropdowns" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.Test" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BrowserWindowHandles" />
-        <item itemvalue="Application.CheckBoxSelection" />
-        <item itemvalue="Application.AutoCompleteGooglePlaceDropdown" />
-        <item itemvalue="Application.AutoSuggestionDropdown" />
-        <item itemvalue="Application.CheckedSortedDropdowns" />
+        <item itemvalue="Application.StaticBlocks" />
+        <item itemvalue="Application.StaticBlock1" />
+        <item itemvalue="Application.SmallestNumberinArrayCollections" />
+        <item itemvalue="Application.SmallnumberinArray" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650547082533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commiting HandlingCookies">
+      <created>1650614526062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650614526062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +226,14 @@
           <url>file://$PROJECT_DIR$/src/test/java/ImpSeleniumProg/PracticeProg.java</url>
           <line>23</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/Test.java</url>
+          <line>9</line>
+          <properties class="ImpJAVAprogrammes.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,7 +3,7 @@ package ImpJAVAprogrammes;
 public class SingleTon {
 
     /*Singleton pattern means the class that has only one instance/object
-    and provides global  point of access to it.*/
+    and provides global point of access to it.*/
 
     /*Advantage: Saves memory because object is not created at each request.
     Only single instance is reused again and again.*/

@@ -2,9 +2,9 @@ package ImpJAVAprogrammes;
 
 public class SmallnumberinArray {
 
-    public static int getSmallest(int a[]) {
+    public static int getSmallest(int a[],int ArraySize) {
 
-        int ArraySize = a.length;
+
         int temp = 0;
         for (int i = 0; i <= ArraySize; i++) {
             for (int j = i + 1; j <= ArraySize; j++) {
@@ -23,7 +23,10 @@ public class SmallnumberinArray {
         }
 
         public static void main(String args[]){
-
+             int a[]={5,8,9,10};
+             int b[]={67,34,12,00};
+            System.out.println(getSmallest(a,3));
+            System.out.println(getSmallest(b,3));
 
         }
 

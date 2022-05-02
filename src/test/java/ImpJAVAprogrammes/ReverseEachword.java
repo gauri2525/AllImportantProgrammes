@@ -10,7 +10,8 @@ public class ReverseEachword {
         String str= "my name is gauri";
         String eachword[]=str.split("\\s");
         String reverseword="";
-        String reverseword1="";
+
+
 
         for(String word:eachword){
 
@@ -21,13 +22,16 @@ public class ReverseEachword {
         }
 
 
-        for (String  word1 : eachword){
-            for (int i =word1.length()-1; i>=0;i--){
-                reverseword1=reverseword1+word1.charAt(i);
-                System.out.print(reverseword1);
-            }
 
-        }
+
+
+
+
+
+
+
+
+
 
     }
 

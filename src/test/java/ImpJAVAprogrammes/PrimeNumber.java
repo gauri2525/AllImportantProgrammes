@@ -6,7 +6,10 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
 
-        int num= 4;
+        /*a whole number greater than 1 that cannot be exactly divided by any whole number other
+        than itself and 1 (e.g. 2, 3, 5, 7, 11).*/
+
+        int num= 5;
         int count = 0;
 
         if(num>1){

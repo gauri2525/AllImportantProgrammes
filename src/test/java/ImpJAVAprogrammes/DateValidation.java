@@ -6,7 +6,7 @@ public class DateValidation {
 
     public static void main(String[] args) {
 
-        String date = "31/12/2021";
+        String date = "32/12/2021";
 
         int dd = Integer.parseInt(date.substring(0, 2));
 
