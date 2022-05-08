@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8dee2a-4d13-4e0d-a9a5-f82e4d8f2663" name="Default Changelist" comment="commiting all programmes">
+    <list default="true" id="2f8dee2a-4d13-4e0d-a9a5-f82e4d8f2663" name="Default Changelist" comment="commiting iframe class">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ImpSeleniumProg/ExplicitWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DateValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DateValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestNgDemo/TC2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestNgDemo/TC1.class" afterDir="false" />
@@ -18,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -38,18 +42,22 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberFrameworkQAFox" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.side.proportion" value="0.59586465" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -57,13 +65,13 @@
       <recent name="ImpJAVAprogrammes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticBlocks">
-    <configuration name="SmallestNumberinArrayCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.SmallestNumberinArrayCollections" />
+  <component name="RunManager" selected="Application.ExplicitWait">
+    <configuration name="ExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.ExplicitWait" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
+          <option name="PATTERN" value="ImpSeleniumProg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +79,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallnumberinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.SmallnumberinArray" />
+    <configuration name="InnerFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.InnerFrames" />
+      <module name="SampleProgrammes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestNumberinArrayCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.SmallestNumberinArrayCollections" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
@@ -110,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.Test" />
-      <module name="SampleProgrammes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
       <module name="SampleProgrammes" />
       <shortenClasspath name="NONE" />
@@ -147,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExplicitWait" />
+        <item itemvalue="Application.InnerFrames" />
         <item itemvalue="Application.StaticBlocks" />
         <item itemvalue="Application.StaticBlock1" />
         <item itemvalue="Application.SmallestNumberinArrayCollections" />
-        <item itemvalue="Application.SmallnumberinArray" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +193,35 @@
       <option name="project" value="LOCAL" />
       <updated>1651495563394</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commiting rest all selenium programmes">
+      <created>1651495780288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651495780288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commiting smallest number in Array programme">
+      <created>1651496040212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651496040212</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commiting iframe class">
+      <created>1651867350971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651867350971</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commiting iframe class">
+      <created>1651867365375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651867365375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +239,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commiting HandlingCookies" />
     <MESSAGE value="commiting all programmes" />
-    <option name="LAST_COMMIT_MESSAGE" value="commiting all programmes" />
+    <MESSAGE value="commiting rest all selenium programmes" />
+    <MESSAGE value="commiting smallest number in Array programme" />
+    <MESSAGE value="commiting iframe class" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting iframe class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

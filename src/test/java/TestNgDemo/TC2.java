@@ -34,16 +34,6 @@ public class TC2 {
         System.out.println("this method will execute after every test method");
     }
 
-    @Test
-    void test3(){
 
-        System.out.println("this is test3 function");
-    }
-
-    @Test
-    void test4(){
-
-        System.out.println("this is test4 function");
-    }
 }
 
