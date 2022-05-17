@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f8dee2a-4d13-4e0d-a9a5-f82e4d8f2663" name="Default Changelist" comment="committing Dynamic Table class">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DatePickerDropdownHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImpJAVAprogrammes/DatePickerHandles.java" afterDir="false" />
+    <list default="true" id="2f8dee2a-4d13-4e0d-a9a5-f82e4d8f2663" name="Default Changelist" comment="committing DatePickerclasses">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
       <recent name="ImpJAVAprogrammes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatePickerDropdownHandle">
+  <component name="RunManager" selected="Application.KeyBoardActions1">
     <configuration name="DatePickerDropdownHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.DatePickerDropdownHandle" />
       <module name="SampleProgrammes" />
@@ -75,21 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatePickerHandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpJAVAprogrammes.DatePickerHandles" />
-      <module name="SampleProgrammes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ImpJAVAprogrammes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.DynamicTable" />
+    <configuration name="KeyBoardActions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.KeyBoardActions1" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.ExplicitWait" />
+    <configuration name="MouseOverANDClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.MouseOverANDClick" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.StaticTable" />
+    <configuration name="SliderHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.SliderHandle" />
+      <module name="SampleProgrammes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImpSeleniumProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="keyboardActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpSeleniumProg.keyboardActions" />
       <module name="SampleProgrammes" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyBoardActions1" />
+        <item itemvalue="Application.keyboardActions" />
+        <item itemvalue="Application.SliderHandle" />
+        <item itemvalue="Application.MouseOverANDClick" />
         <item itemvalue="Application.DatePickerDropdownHandle" />
-        <item itemvalue="Application.DatePickerHandles" />
-        <item itemvalue="Application.DynamicTable" />
-        <item itemvalue="Application.StaticTable" />
-        <item itemvalue="Application.ExplicitWait" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652529403804</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="committing DatePickerclasses">
+      <created>1652702550710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652702550710</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +273,8 @@
     <MESSAGE value="commiting iframe class" />
     <MESSAGE value="commiting ExplicitWait class" />
     <MESSAGE value="committing Dynamic Table class" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing Dynamic Table class" />
+    <MESSAGE value="committing DatePickerclasses" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing DatePickerclasses" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
